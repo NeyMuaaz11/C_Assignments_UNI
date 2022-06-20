@@ -1,0 +1,4 @@
+Sum: 24.000000
+Product: 80.000000
+Difference: 16.000000
+Division: 5.000000
